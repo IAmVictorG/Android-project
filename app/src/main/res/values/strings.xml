@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyChoiceApp</string>
+
+    <string name="Question1">Question1</string>
+    <string name="Question2">Question2</string>
+    <string-array name="difficulty_array">
+        <item>Facile</item>
+        <item>Moyen</item>
+        <item>Difficile</item>
+    </string-array>
+    <string name="life">3</string>
+</resources>
